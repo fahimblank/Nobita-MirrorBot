@@ -130,18 +130,15 @@
       },
       "STOP_DUPLICATE_MIRROR": {
         "description": "If this field is set to True, bot will check file in Drive, if it is present in Drive, downloading will be stopped.",
-        "value": "True"
-        "required": true
+        "required": false
       },
       "STOP_DUPLICATE_MEGA": {
         "description": "If this field is set to True, bot will check file in Drive, if it is present in Drive, downloading Mega will be stopped.",
-        "value": "True"
-        "required": true
+        "required": false
       },
       "STOP_DUPLICATE_CLONE": {
         "description": "If this field is set to True, bot will check file in Drive, if it is present in Drive, cloning will be stopped.",
-        "value": "True"
-        "required": true
+        "required": false
       },
       "IGNORE_PENDING_REQUESTS": {
         "description": "If you want the bot to ignore pending requests after it restarts, set this to True.",
