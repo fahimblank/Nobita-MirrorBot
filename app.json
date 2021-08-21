@@ -80,7 +80,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "Link for Bot Upstream Repo, Don't change it, Fill https://github.com/nobita-o/Nobita-Mirrorbot.",
-        "value": "https://github.com/nobita-o/Nobita-Mirrorbot",
+        "value": "https://github.com/Nobita-o/Nobita-MirrorBot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
