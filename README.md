@@ -139,7 +139,7 @@ Three buttons are already added of Drive Link, Index Link, and View Link, you ca
 
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
-# Using Service Accounts for uploading to avoid user rate limit
+# Using Service Accounts to avoid user rate limit
 
 # Contact Me
 
