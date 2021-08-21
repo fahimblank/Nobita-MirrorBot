@@ -80,7 +80,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "Link for Bot Upstream Repo, Don't change it, Fill https://github.com/nobita-o/Nobita-Mirrorbot.",
-        "value": "https://github.com/nobita-o/Nobita-Mirrorbot",
+        "value": "https://github.com/Nobita-o/Nobita-MirrorBot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
@@ -130,14 +130,17 @@
       },
       "STOP_DUPLICATE_MIRROR": {
         "description": "If this field is set to True, bot will check file in Drive, if it is present in Drive, downloading will be stopped.",
+        "value": "True",
         "required": false
       },
       "STOP_DUPLICATE_MEGA": {
         "description": "If this field is set to True, bot will check file in Drive, if it is present in Drive, downloading Mega will be stopped.",
+        "value": "True",
         "required": false
       },
       "STOP_DUPLICATE_CLONE": {
         "description": "If this field is set to True, bot will check file in Drive, if it is present in Drive, cloning will be stopped.",
+        "value": "True",
         "required": false
       },
       "IGNORE_PENDING_REQUESTS": {
